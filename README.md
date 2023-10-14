@@ -26,14 +26,14 @@ This is a Node.js project that demonstrates how to use Sequelize, CockroachDB, a
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/thevargheseshibu/node-sequelize-cockroachDB-crud.git
    ```
 
 2. Navigate to the project directory:
 
    ```sh
    Copy code
-   cd your-repo
+   cd node-sequelize-cockroachDB-crud
    ```
 
 3. Install dependencies:
