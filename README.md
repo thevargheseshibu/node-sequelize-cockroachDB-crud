@@ -12,13 +12,9 @@ This is a Node.js project that demonstrates how to use Sequelize, CockroachDB, a
 ![insert](https://github.com/thevargheseshibu/node-sequelize-cockroachDB-crud/blob/master/images/insert.png)
 ![read](https://github.com/thevargheseshibu/node-sequelize-cockroachDB-crud/blob/master/images/read.png)
 
-## Getting Started
-
-Explain how to set up your project locally on a development machine.
 
 ### Prerequisites
 
-List the software and tools that need to be installed to run your project. For example:
 
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
@@ -26,7 +22,6 @@ List the software and tools that need to be installed to run your project. For e
 
 ### Installation
 
-Provide step-by-step instructions to install and set up the project. For example:
 
 1. Clone the repository:
 
