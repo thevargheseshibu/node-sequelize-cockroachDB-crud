@@ -4,8 +4,6 @@ This is a Node.js project that demonstrates how to use Sequelize, CockroachDB, a
 
 ## Features
 
-List the main features of your project. For example:
-
 - Create, read, update, and delete (CRUD) operations
 - RESTful API using Express
 - Data storage with Sequelize and CockroachDB
